@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hampus83
 - 👀 I’m interested in ... learning about frontend developing
-- 🌱 I’m currently learning ... HTML & CSS
+- 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... jhmacgyver@gmail.com
 
